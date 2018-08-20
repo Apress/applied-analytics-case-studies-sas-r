@@ -1,0 +1,1001 @@
+Sex,Marital_Status,Term,Phone_service,International_plan,Voice_mail_plan,Multiple_line,Internet_service,Technical_support,Streaming_Videos,Agreement_period,Monthly_Charges,Total_Charges,Churn
+Female,Married,16,Yes,Yes,Yes,No,Cable,Yes,No,Monthly contract,98.05,1410.25,Yes
+Male,Married,70,Yes,No,Yes,No,Cable,Yes,Yes,One year contract,75.25,5023,No
+Female,Married,36,Yes,No,Yes,No,Cable,Yes,Yes,Monthly contract,73.35,2379.1,No
+Female,Married,72,Yes,No,No,Yes,Cable,Yes,Yes,One year contract,112.6,7882.25,No
+Female,Married,40,Yes,Yes,No,Yes,Cable,No,Yes,Monthly contract,95.05,3646.8,No
+Female,Single,15,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.85,255.35,No
+Male,Married,1,Yes,Yes,Yes,Yes,Cable,No,No,Monthly contract,89.2,38.8,No
+Female,Married,36,Yes,Yes,No,Yes,Cable,No,Yes,Monthly contract,94.65,3266,Yes
+Male,Married,5,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,97.1,497.55,Yes
+Female,Married,57,Yes,No,No,Yes,Cable,Yes,Yes,One year contract,113.25,6068.65,No
+Female,Married,54,Yes,No,No,Yes,Cable,No,Yes,Monthly contract,105.6,6033.3,No
+Male,Single,55,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.4,1124.2,No
+Male,Single,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.9,74.6,No
+Male,Married,42,Yes,Yes,No,Yes,Cable,No,Yes,One year contract,95.45,3944.5,Yes
+Male,Single,52,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.6,1022.95,No
+Male,Married,43,Yes,No,No,Yes,Cable,No,Yes,Monthly contract,104.15,5067.45,Yes
+Female,Single,54,No,No,No,No phone ,Cable,No,No,Monthly contract,33.75,1782,Yes
+Male,Married,2,Yes,No,Yes,Yes,Cable,No,No,Monthly contract,76,81.25,Yes
+Male,Married,7,Yes,No,No,No,Cable,No,Yes,Monthly contract,98.5,445.95,Yes
+Male,Single,57,No,No,No,No phone ,Cable,No,No,One year contract,30.2,1336.1,No
+Male,Married,1,Yes,No,No,No,Cable,No,No,Monthly contract,75.05,75.05,Yes
+Male,Married,38,Yes,No,No,Yes,Cable,No,Yes,Monthly contract,100.15,4113.1,Yes
+Male,Married,32,No,No,No,No phone ,Cable,Yes,Yes,One year contract,54.6,1665.2,No
+Female,Married,34,Yes,No,No,Yes,Cable,No,No,Monthly contract,85.45,3236.35,No
+Female,Single,12,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.05,225.55,No
+Female,Married,72,Yes,No,No,Yes,Cable,Yes,Yes,Two year contract,115.8,8220.4,No
+Female,Married,22,Yes,Yes,Yes,Yes,Cable,Yes,No,One year contract,59.6,1832.4,No
+Male,Married,12,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,81.7,764.55,Yes
+Male,Married,67,Yes,No,No,No,Cable,Yes,Yes,Two year contract,80.3,5293.95,No
+Female,Married,57,Yes,No,No,Yes,Cable,No,Yes,One year contract,103.85,5000.2,Yes
+Male,Married,31,Yes,No,Yes,Yes,Cable,Yes,Yes,Monthly contract,115.1,3046.05,Yes
+Male,Married,71,Yes,No,Yes,No,Cable,Yes,Yes,Two year contract,81.05,5714.25,No
+Female,Single,5,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,44.8,191.05,No
+Female,Married,70,Yes,No,Yes,No,Cable,Yes,No,Two year contract,66.85,4908.25,No
+Female,Single,15,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.75,237.7,No
+Male,Single,48,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.25,1417.9,No
+Male,Married,45,No,No,No,No phone ,Cable,Yes,Yes,One year contract,60.3,2754,No
+Male,Married,13,Yes,No,No,Yes,Cable,Yes,Yes,One year contract,100.55,1511.2,No
+Female,Married,2,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,75.35,19,Yes
+Male,Single,27,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,19.7,367.55,No
+Male,Married,63,Yes,No,Yes,No,Cable,No,Yes,One year contract,110,7107,No
+Female,Married,50,No,No,No,No phone ,Cable,No,No,One year contract,52.55,2473.95,No
+Female,Married,72,Yes,No,Yes,Yes,Cable,Yes,Yes,Monthly contract,88.85,5986.45,Yes
+Female,Single,59,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.6,973.35,No
+Female,Single,52,No,No,No,No phone ,Cable,No,No,Monthly contract,40.2,2145,Yes
+Male,Married,24,Yes,No,Yes,No,Cable,No,Yes,Monthly contract,95.15,2857.6,Yes
+Male,Married,35,No,No,No,No phone ,Cable,Yes,No,Monthly contract,54.85,1916,No
+Female,Married,65,Yes,No,Yes,Yes,Cable,No,Yes,One year contract,105.9,6300.15,No
+Male,Single,35,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,25.55,697.65,No
+Male,Single,1,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,25.25,85.7,No
+Female,Single,37,No,No,No,No phone ,Cable,No,Yes,One year contract,40.05,780.2,No
+Male,Married,25,Yes,No,Yes,No,Cable,Yes,Yes,One year contract,99.45,2686.05,No
+Female,Married,5,Yes,Yes,Yes,Yes,Cable,Yes,Yes,Monthly contract,82.45,292.8,No
+Female,Married,13,Yes,Yes,Yes,Yes,Cable,Yes,Yes,Monthly contract,104.65,1410.25,Yes
+Male,Single,23,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,25.55,419.9,No
+Female,Married,32,Yes,No,No,Yes,Cable,No,No,Monthly contract,81.1,2516.2,No
+Female,Married,60,Yes,No,Yes,Yes,Cable,Yes,Yes,Monthly contract,104.8,5614.45,Yes
+Male,Single,7,Yes,No,No,No,Cable,No,No,Monthly contract,45.65,587.45,Yes
+Female,Married,27,Yes,Yes,Yes,Yes,Cable,No,No,Monthly contract,78.55,1874.45,Yes
+Female,Married,25,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,72.85,1929.35,Yes
+Female,Married,72,Yes,No,Yes,Yes,Cable,Yes,No,Two year contract,69.65,4811.6,Yes
+Male,Single,58,No,No,No,No phone ,Cable,No,No,One year contract,30.1,1423.85,No
+Male,Single,3,Yes,No,No,No,No Internet,No internet ,No internet ,Monthly contract,20.55,132.25,No
+Male,Single,10,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.35,137.6,Yes
+Female,Single,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.55,119.5,No
+Male,Single,17,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.75,204.55,No
+Female,Single,55,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,25.7,1423.85,No
+Female,Married,25,Yes,No,Yes,No,Cable,No,Yes,Monthly contract,89.35,2395.7,Yes
+Male,Married,72,No,No,No,No phone ,Cable,Yes,Yes,Two year contract,60,4264,Yes
+Female,Married,18,Yes,Yes,Yes,No,Cable,Yes,No,Monthly contract,52.2,1058.1,No
+Male,Married,41,Yes,No,Yes,No,Cable,Yes,No,Two year contract,65,3141.7,No
+Female,Single,17,No,No,No,No phone ,DSL,No,No,Monthly contract,40.4,363.15,No
+Female,Married,65,Yes,Yes,Yes,Yes,DSL,Yes,No,One year contract,55.9,4264,No
+Female,Married,1,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,70,19.9,Yes
+Male,Single,22,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,25.8,587.4,No
+Female,Married,60,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,105.05,5238.9,No
+Male,Married,47,Yes,Yes,No,Yes,DSL,Yes,No,Two year contract,59.6,3342.45,No
+Female,Married,10,Yes,Yes,No,No,DSL,No,No,Monthly contract,56.75,857.25,No
+Female,Married,1,Yes,Yes,No,Yes,Cable,No,No,Monthly contract,80.7,45.7,Yes
+Female,Married,15,Yes,Yes,No,No,Cable,Yes,No,One year contract,79.95,1074.3,No
+Female,Single,40,Yes,Yes,No,No,No Internet,No internet ,No internet ,Two year contract,20.65,780.2,No
+Female,Married,5,Yes,Yes,No,No,Cable,No,Yes,Monthly contract,96.5,245.15,Yes
+Male,Married,17,Yes,Yes,No,No,DSL,No,No,Monthly contract,50.65,394.1,No
+Male,Single,2,Yes,Yes,No,No,DSL,No,No,Monthly contract,44.85,20.25,No
+Male,Single,72,Yes,Yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,23.8,1620.2,No
+Female,Married,27,Yes,Yes,No,Yes,Cable,No,No,Monthly contract,74.95,2193,No
+Male,Single,9,Yes,Yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.85,268.45,No
+Male,Married,34,Yes,Yes,Yes,No,Cable,No,Yes,Monthly contract,95.1,3480,No
+Male,Married,25,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,76.05,2028.8,Yes
+Female,Single,10,Yes,Yes,Yes,No,DSL,Yes,No,Monthly contract,49.3,587.45,Yes
+Male,Single,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.9,29.85,No
+Male,Single,67,No,No,No,No phone ,DSL,Yes,No,Two year contract,30.2,1620.2,Yes
+Female,Single,2,No,No,No,No phone ,DSL,No,No,Monthly contract,28.45,74.7,Yes
+Female,Single,2,No,No,No,No phone ,DSL,No,No,Monthly contract,24.8,84.5,Yes
+Male,Single,4,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,46,100.2,Yes
+Female,Single,65,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,45.3,3687.75,No
+Female,Married,16,Yes,Yes,Yes,Yes,DSL,No,Yes,Monthly contract,78.75,1212.85,No
+Female,Married,65,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,54.55,2962,No
+Male,Married,72,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,75.25,5502.55,No
+Male,Married,71,Yes,No,Yes,Yes,DSL,Yes,No,Two year contract,69.65,4807.45,No
+Male,Single,7,No,No,No,No phone ,DSL,No,No,Monthly contract,25.25,225.55,No
+Female,Married,1,Yes,No,Yes,No,Cable,No,No,Monthly contract,70.4,19.9,No
+Male,Single,1,Yes,No,Yes,No,DSL,No,No,Monthly contract,44.95,72.1,Yes
+Female,Married,68,Yes,No,Yes,No,DSL,No,Yes,Monthly contract,81.15,5589.3,No
+Female,Married,15,Yes,No,Yes,No,Cable,Yes,No,Monthly contract,98.05,1667.25,Yes
+Female,Married,61,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,89.8,5822.3,No
+Male,Married,57,Yes,Yes,Yes,Yes,Cable,No,No,One year contract,90.95,5515.45,Yes
+Male,Single,15,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.7,237.7,No
+Female,Married,4,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,99.05,195.65,Yes
+Male,Married,50,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.75,945.7,No
+Female,Married,28,Yes,Yes,Yes,No,DSL,No,Yes,Monthly contract,64.95,1785.65,No
+Female,Married,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.7,114.1,Yes
+Male,Married,59,Yes,No,No,Yes,Cable,Yes,Yes,One year contract,104.8,5509.3,No
+Male,Married,39,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,94.4,3266,Yes
+Female,Married,4,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,18.95,168.15,Yes
+Female,Married,66,Yes,Yes,Yes,Yes,Cable,No,No,Monthly contract,92.05,5308.7,No
+Female,Married,21,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,26.1,537.35,No
+Male,Married,2,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.55,85.7,No
+Male,Married,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.8,20.15,No
+Male,Married,66,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.6,1414.45,No
+Male,Married,48,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20,855.1,No
+Female,Married,1,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,75.15,19.9,No
+Female,Married,71,Yes,No,Yes,No,Cable,No,No,Two year contract,74.8,4784.45,No
+Male,Married,40,Yes,No,Yes,Yes,Cable,No,Yes,Monthly contract,101.3,3480,Yes
+Female,Married,4,Yes,No,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,25.25,82.15,No
+Female,Married,45,Yes,No,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.1,1110.5,No
+Male,Married,57,Yes,No,Yes,No,DSL,Yes,Yes,Two year contract,75.95,4461.85,No
+Female,Married,63,Yes,No,Yes,Yes,Cable,No,Yes,Monthly contract,103.7,6985.65,Yes
+Female,Married,16,Yes,No,No,No,DSL,No,No,Monthly contract,48.85,422.3,Yes
+Female,Married,72,Yes,No,No,Yes,DSL,No,Yes,Two year contract,78.4,5714.25,No
+Female,Married,72,Yes,No,No,Yes,Cable,Yes,No,Two year contract,99.05,7422.1,No
+Male,Married,24,Yes,Yes,No,No,Cable,Yes,Yes,Monthly contract,96.1,2423.4,No
+Female,Married,28,Yes,Yes,No,Yes,Cable,No,No,Monthly contract,80.6,2656.5,Yes
+Male,Married,57,No,No,No,No phone ,DSL,Yes,No,Two year contract,30.1,1782,No
+Female,Married,46,Yes,Yes,No,No,Cable,Yes,No,Monthly contract,84.05,2958.95,No
+Male,Married,13,Yes,Yes,No,No,No Internet,No internet ,No internet ,One year contract,20,170.9,No
+Female,Married,45,Yes,Yes,No,No,No Internet,No internet ,No internet ,Two year contract,20.35,1167.6,No
+Male,Married,71,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,60.2,4179.2,No
+Female,Married,2,Yes,Yes,No,No,DSL,No,Yes,Monthly contract,55,161.5,Yes
+Female,Married,6,No,No,No,No phone ,DSL,No,No,Monthly contract,44.85,92.5,No
+Male,Married,30,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,24.45,5,No
+Female,Married,4,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,105.35,424.45,Yes
+Female,Married,15,Yes,Yes,Yes,No,Cable,Yes,No,Monthly contract,86.8,1559.25,No
+Male,Married,48,Yes,No,Yes,Yes,Cable,No,Yes,One year contract,99.15,4016.75,Yes
+Female,Married,47,No,No,No,No phone ,DSL,No,No,Monthly contract,42.3,2348.45,Yes
+Male,Married,35,Yes,No,Yes,Yes,Cable,No,Yes,Monthly contract,94.3,3365.4,No
+Female,Married,46,Yes,No,Yes,No,No Internet,No internet ,No internet ,One year contract,20.05,868.1,No
+Male,Single,1,Yes,No,No,No,No Internet,No internet ,No internet ,Monthly contract,19.7,20.05,No
+Male,Married,1,Yes,No,Yes,Yes,Cable,No,No,Monthly contract,76.1,48.55,Yes
+Female,Married,19,Yes,No,Yes,Yes,Cable,No,Yes,Monthly contract,94.3,2317.1,No
+Female,Married,22,Yes,No,Yes,No,Cable,No,No,Monthly contract,75.2,1901.05,No
+Female,Married,15,Yes,No,Yes,Yes,Cable,No,No,Monthly contract,78.55,731.3,No
+Female,Married,72,Yes,Yes,Yes,Yes,Cable,Yes,Yes,Two year contract,116.05,8476.5,No
+Male,Married,50,Yes,Yes,No,Yes,Cable,Yes,Yes,One year contract,111.2,5686.4,No
+Male,Married,68,No,No,No,No phone ,DSL,Yes,Yes,Monthly contract,59.85,3975.7,No
+Male,Single,1,Yes,No,No,No,No Internet,No internet ,No internet ,Monthly contract,20.25,79.35,No
+Male,Single,3,Yes,Yes,No,No,No Internet,No internet ,No internet ,Two year contract,19.45,100.9,No
+Male,Married,3,Yes,Yes,No,Yes,Cable,No,No,Monthly contract,75.25,334.8,Yes
+Female,Married,37,Yes,Yes,No,Yes,Cable,Yes,No,Monthly contract,80.5,3084.9,No
+Female,Single,41,Yes,Yes,No,No,No Internet,No internet ,No internet ,One year contract,19.25,624.15,No
+Male,Married,50,Yes,No,No,Yes,DSL,Yes,No,One year contract,64.4,3487.95,No
+Female,Married,5,Yes,No,No,No,Cable,No,No,Monthly contract,69.7,307.4,Yes
+Male,Married,20,Yes,No,No,Yes,Cable,No,Yes,Monthly contract,105.35,2239.4,No
+Female,Single,43,Yes,No,No,Yes,No Internet,No internet ,No internet ,Two year contract,25.6,1270.25,No
+Female,Single,1,Yes,No,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.4,19.9,No
+Female,Single,1,Yes,No,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.6,85.15,No
+Female,Married,58,Yes,No,Yes,Yes,Cable,Yes,Yes,Monthly contract,107,6519.75,No
+Male,Single,7,Yes,No,Yes,No,No Internet,No internet ,No internet ,Monthly contract,21.05,170.9,Yes
+Female,Married,43,Yes,No,Yes,Yes,Cable,Yes,Yes,One year contract,108,4860.35,Yes
+Female,Married,21,Yes,No,Yes,Yes,Cable,Yes,Yes,Monthly contract,110,2172.05,Yes
+Male,Married,4,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,100.5,531,Yes
+Male,Married,71,Yes,No,Yes,Yes,Cable,Yes,No,Two year contract,90.95,6782.15,No
+Male,Married,22,Yes,Yes,Yes,No,DSL,Yes,Yes,Monthly contract,65.55,1652.95,No
+Female,Married,11,Yes,Yes,Yes,No,DSL,Yes,Yes,Two year contract,75.3,760.05,No
+Male,Single,72,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,One year contract,25.4,1620.2,No
+Female,Married,1,Yes,Yes,Yes,Yes,Cable,No,No,Monthly contract,82.4,38.8,No
+Female,Single,4,No,No,No,No phone ,DSL,No,Yes,Monthly contract,49.85,61.7,Yes
+Female,Single,43,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.7,1270.25,No
+Female,Married,3,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,83.55,244.75,No
+Female,Married,7,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,85.95,516.15,Yes
+Male,Married,47,Yes,No,Yes,No,DSL,Yes,No,Two year contract,59.75,3437.45,No
+Male,Married,10,Yes,Yes,Yes,No,Cable,No,Yes,Monthly contract,95,597.9,Yes
+Female,Married,35,Yes,No,Yes,No,Cable,No,No,Monthly contract,91.65,3161.2,Yes
+Male,Married,61,Yes,No,Yes,Yes,Cable,No,Yes,One year contract,97,6413.65,No
+Female,Married,68,Yes,No,Yes,Yes,Cable,Yes,No,One year contract,90.35,6668.05,No
+Female,Married,34,Yes,No,No,No,DSL,Yes,Yes,Two year contract,81.15,2497.2,No
+Female,Single,54,Yes,Yes,No,Yes,No Internet,No internet ,No internet ,One year contract,24.7,1203.95,No
+Female,Married,43,Yes,No,No,Yes,Cable,No,Yes,Two year contract,99.8,4747.5,No
+Male,Married,2,Yes,Yes,No,No,DSL,No,No,Monthly contract,51.8,19.25,No
+Male,Married,1,Yes,Yes,No,No,DSL,Yes,No,Monthly contract,52.2,90.55,Yes
+Female,Married,15,Yes,Yes,No,No,Cable,No,No,Monthly contract,79.25,981.45,No
+Female,Married,4,Yes,Yes,No,Yes,Cable,No,No,Monthly contract,85.7,244.75,Yes
+Female,Married,68,Yes,No,No,No,Cable,No,Yes,One year contract,97.55,6858.9,No
+Male,Married,66,Yes,No,No,Yes,DSL,Yes,Yes,Two year contract,75.8,5714.25,No
+Female,Single,15,Yes,Yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,24.6,112.3,No
+Male,Single,1,Yes,Yes,No,No,No Internet,No internet ,No internet ,Monthly contract,19.6,35.45,No
+Female,Married,46,Yes,No,Yes,Yes,DSL,Yes,No,Two year contract,65,3545.05,No
+Male,Married,63,Yes,No,Yes,Yes,Cable,No,Yes,Monthly contract,85.5,5965.95,No
+Male,Single,27,Yes,No,No,No,No Internet,No internet ,No internet ,One year contract,20.2,507.4,No
+Male,Married,2,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,53.85,135.2,Yes
+Male,Single,59,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.1,930.9,No
+Male,Married,1,Yes,Yes,Yes,No,DSL,Yes,Yes,Monthly contract,69.5,73.6,No
+Female,Married,40,Yes,Yes,Yes,No,Cable,Yes,No,Monthly contract,86.1,3339.05,Yes
+Male,Married,30,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,98.55,2538.05,Yes
+Male,Married,47,Yes,Yes,No,Yes,Cable,Yes,Yes,One year contract,104.8,4874.8,No
+Female,Married,12,Yes,Yes,No,Yes,Cable,No,Yes,Monthly contract,99.3,1269.55,Yes
+Female,Married,1,Yes,Yes,No,Yes,Cable,No,No,Monthly contract,74.45,45.7,Yes
+Male,Married,16,Yes,Yes,No,Yes,Cable,No,No,Monthly contract,74.35,1112.3,Yes
+Female,Married,70,Yes,Yes,No,No,DSL,No,Yes,Two year contract,55,3975.7,No
+Male,Single,1,Yes,Yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.55,74.6,No
+Female,Married,71,Yes,Yes,No,Yes,DSL,No,Yes,Two year contract,78.4,5411.4,No
+Male,Married,72,Yes,No,No,Yes,DSL,Yes,No,Two year contract,66.85,5357.75,No
+Female,Married,36,Yes,No,No,No,DSL,Yes,Yes,One year contract,78.8,2278.75,No
+Male,Married,69,Yes,No,No,Yes,DSL,Yes,No,Two year contract,66.85,4805.65,No
+Male,Single,4,Yes,No,No,No,No Internet,No internet ,No internet ,Monthly contract,20.05,100.9,No
+Female,Married,65,Yes,No,Yes,No,DSL,Yes,No,Two year contract,79.45,5324.5,No
+Female,Single,72,Yes,No,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.65,1269.1,No
+Female,Single,55,No,No,No,No phone ,DSL,No,No,Monthly contract,30.2,1066.15,No
+Female,Married,15,Yes,No,Yes,No,Cable,No,No,Monthly contract,70,5,No
+Female,Married,5,Yes,No,Yes,No,Cable,No,No,Monthly contract,75.05,270.7,No
+Male,Single,27,Yes,No,Yes,No,No Internet,No internet ,No internet ,One year contract,19.8,507.4,No
+Female,Married,8,Yes,No,Yes,No,Cable,Yes,No,Monthly contract,84.05,644.35,Yes
+Female,Married,68,Yes,No,Yes,Yes,DSL,No,No,One year contract,51.6,2799.75,No
+Male,Single,60,No,No,No,No phone ,DSL,Yes,No,Two year contract,35.8,1195.25,No
+Male,Married,32,Yes,No,Yes,No,DSL,Yes,Yes,Monthly contract,69.5,2438.6,No
+Female,Married,34,Yes,No,Yes,Yes,Cable,Yes,Yes,Monthly contract,105.05,4113.1,Yes
+Male,Married,58,Yes,No,Yes,No,DSL,Yes,Yes,Two year contract,80.6,4039.5,No
+Male,Married,33,Yes,Yes,No,Yes,Cable,Yes,No,One year contract,89,2768.35,No
+Male,Married,70,Yes,Yes,No,Yes,DSL,Yes,No,One year contract,69.65,5154.5,No
+Male,Married,4,Yes,Yes,No,No,DSL,Yes,No,Monthly contract,69.5,313.6,No
+Female,Married,27,No,No,No,No phone ,DSL,No,Yes,Monthly contract,50.6,1277.5,No
+Female,Married,4,Yes,Yes,No,No,Cable,No,No,Monthly contract,69.55,268.35,No
+Female,Married,5,Yes,Yes,No,No,Cable,No,Yes,Monthly contract,95.8,202.9,Yes
+Female,Married,46,Yes,Yes,No,No,DSL,No,Yes,Monthly contract,69.55,2958.95,Yes
+Female,Married,52,Yes,Yes,No,Yes,Cable,No,Yes,Two year contract,105.55,5138.1,No
+Male,Married,5,Yes,Yes,No,No,Cable,No,Yes,Monthly contract,93.95,234.85,Yes
+Male,Single,4,Yes,Yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.2,202.15,Yes
+Male,Married,27,Yes,Yes,No,Yes,Cable,Yes,Yes,One year contract,110.85,2681.15,No
+Female,Married,15,Yes,Yes,Yes,No,Cable,No,Yes,Monthly contract,89.15,1021.75,No
+Male,Married,4,Yes,Yes,Yes,Yes,DSL,Yes,No,One year contract,58.95,302.6,No
+Male,Single,16,Yes,No,No,No,No Internet,No internet ,No internet ,Two year contract,20.85,220.35,No
+Male,Married,65,Yes,No,Yes,No,DSL,Yes,Yes,Two year contract,78.8,5411.4,No
+Female,Married,46,Yes,No,Yes,No,DSL,No,No,Monthly contract,56.15,3590.2,No
+Male,Married,71,Yes,No,Yes,Yes,Cable,No,No,Two year contract,91.7,6369.45,No
+Female,Married,15,Yes,No,Yes,Yes,Cable,No,No,Monthly contract,73.85,771.95,Yes
+Female,Married,68,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,88.85,6309.65,No
+Male,Single,56,No,No,No,No phone ,DSL,No,No,One year contract,30.2,1266.4,No
+Male,Married,64,Yes,No,No,Yes,Cable,No,Yes,One year contract,108.1,7008.15,No
+Male,Married,26,Yes,No,No,Yes,Fiber optic,No,No,Monthly contract,94.9,2088.05,Yes
+Male,Married,35,Yes,No,No,Yes,Fiber optic,No,Yes,One year contract,100.8,4188.4,No
+Female,Single,34,Yes,No,No,No,No Internet,No internet ,No internet ,Monthly contract,20.4,865,No
+Female,Married,72,Yes,No,No,Yes,Fiber optic,Yes,Yes,Two year contract,111.65,7966.9,No
+Male,Married,36,Yes,No,No,No,DSL,Yes,Yes,Two year contract,75.55,2937.65,No
+Female,Married,55,Yes,No,No,No,Fiber optic,No,No,One year contract,81.15,4456.35,No
+Female,Married,21,Yes,No,No,No,Fiber optic,No,No,Monthly contract,73.25,1339.8,No
+Female,Married,50,Yes,No,No,Yes,DSL,Yes,No,One year contract,51.6,2348.45,No
+Female,Married,66,Yes,No,No,Yes,Fiber optic,No,Yes,One year contract,100.35,7250.15,No
+Male,Married,60,Yes,Yes,No,Yes,Fiber optic,No,Yes,One year contract,89.85,4884.85,No
+Female,Married,70,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Two year contract,104.6,6819.45,No
+Female,Single,26,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,19.4,537.35,No
+Female,Married,5,Yes,Yes,Yes,Yes,Cable,No,No,Monthly contract,74.4,273,Yes
+Male,Single,35,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.9,865,No
+Female,Single,49,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,25.45,1174.8,No
+Male,Married,72,Yes,No,No,Yes,Cable,Yes,Yes,Two year contract,115.75,8196.4,No
+Male,Single,72,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,41.15,3423.5,No
+Male,Married,72,Yes,No,Yes,Yes,Cable,Yes,Yes,Two year contract,108.05,8065.65,No
+Male,Married,12,Yes,No,Yes,Yes,Cable,No,Yes,Monthly contract,84.9,1511.2,No
+Female,Single,49,Yes,No,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.5,868.1,No
+Female,Married,31,Yes,No,Yes,No,DSL,No,No,One year contract,54.75,1916,No
+Female,Married,2,Yes,No,Yes,No,Cable,No,No,Monthly contract,80.85,90.85,No
+Male,Married,50,Yes,No,No,No,DSL,Yes,Yes,Two year contract,73.25,3682.45,No
+Male,Married,33,Yes,No,No,Yes,DSL,No,Yes,Monthly contract,78.75,2111.3,No
+Male,Single,28,Yes,No,No,No,No Internet,No internet ,No internet ,Two year contract,20.05,720.05,No
+Female,Married,22,Yes,No,No,No,Cable,Yes,No,Two year contract,74.7,1845.9,No
+Female,Single,56,Yes,No,No,Yes,No Internet,No internet ,No internet ,Two year contract,24.7,1505.9,No
+Female,Married,68,Yes,No,No,Yes,DSL,Yes,Yes,Two year contract,88.6,6223.8,No
+Female,Single,7,Yes,No,No,Yes,DSL,No,No,Monthly contract,44,362.6,No
+Male,Single,2,Yes,No,No,No,DSL,No,No,Monthly contract,44.35,62,Yes
+Female,Single,49,Yes,No,No,Yes,No Internet,No internet ,No internet ,One year contract,24.95,1108.2,No
+Female,Married,52,Yes,No,No,No,Cable,No,No,One year contract,100.55,4298.45,No
+Female,Married,8,Yes,No,No,No,Cable,No,Yes,Monthly contract,95.1,655.5,No
+Female,Single,2,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,45.35,20.75,No
+Female,Married,16,Yes,Yes,Yes,Yes,Cable,Yes,Yes,Monthly contract,105.25,1470.05,Yes
+Male,Single,2,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.4,19.75,No
+Female,Married,8,Yes,Yes,Yes,No,Cable,No,Yes,Monthly contract,95.5,564.35,No
+Male,Married,32,Yes,Yes,Yes,Yes,Cable,No,No,Monthly contract,81.1,2848.45,No
+Female,Married,11,Yes,Yes,Yes,No,Cable,Yes,No,Monthly contract,80.85,1120.3,Yes
+Female,Single,1,No,No,No,No phone ,DSL,No,No,Monthly contract,24.8,74.6,Yes
+Male,Married,66,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Two year contract,89.8,5965.95,No
+Female,Married,15,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,81.7,713.75,No
+Female,Married,15,Yes,Yes,Yes,Yes,Cable,No,Yes,Monthly contract,99.05,1288.3,Yes
+Male,Married,63,Yes,Yes,Yes,Yes,Cable,No,Yes,One year contract,103.4,6597.25,No
+Female,Single,72,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,One year contract,25.8,1710.9,No
+Male,Married,1,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,50.15,80,Yes
+Female,Married,66,Yes,No,Yes,Yes,Cable,Yes,Yes,One year contract,108.65,7379.8,No
+Male,Married,1,Yes,No,Yes,No,DSL,Yes,No,Monthly contract,58.95,25.35,No
+Female,Married,56,Yes,No,Yes,Yes,Cable,No,No,One year contract,93.85,5000.2,Yes
+Female,Married,43,Yes,No,Yes,Yes,Cable,Yes,Yes,One year contract,104.4,4327.5,No
+Female,Single,72,Yes,No,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.4,1253.8,No
+Female,Married,57,Yes,No,Yes,Yes,Cable,Yes,Yes,Monthly contract,99.75,5509.3,No
+Male,Married,7,Yes,No,Yes,Yes,Fiber optic,No,No,Monthly contract,78.85,574.35,No
+Male,Single,35,Yes,No,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.5,1126.35,No
+Female,Married,35,Yes,No,Yes,No,Fiber optic,No,No,Monthly contract,85.05,2917.5,No
+Female,Married,66,Yes,No,Yes,No,DSL,Yes,No,One year contract,79.85,5468.45,No
+Female,Single,3,Yes,No,No,Yes,No Internet,No internet ,No internet ,Monthly contract,25.7,61.7,No
+Male,Married,1,Yes,No,Yes,No,DSL,No,Yes,Monthly contract,59.95,174.8,Yes
+Female,Married,56,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,106.7,6049.5,No
+Female,Married,60,Yes,No,Yes,Yes,Fiber optic,Yes,No,One year contract,85.4,4925.35,No
+Male,Single,2,Yes,No,No,No,DSL,Yes,No,Monthly contract,49.05,62,Yes
+Male,Single,3,Yes,No,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,24.85,94.15,No
+Female,Single,68,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,40.05,3260.1,No
+Female,Married,35,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,100.25,3480,Yes
+Female,Single,9,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,45.7,435.4,Yes
+Male,Single,59,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.35,868.1,Yes
+Male,Married,22,Yes,Yes,Yes,Yes,DSL,No,Yes,One year contract,76.8,1502.65,No
+Male,Married,24,Yes,Yes,Yes,No,Fiber optic,No,No,Monthly contract,73.25,2193,No
+Female,Married,56,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,Monthly contract,86,5450.7,Yes
+Female,Single,19,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,19.6,504.2,No
+Female,Married,10,Yes,Yes,Yes,No,DSL,Yes,No,Monthly contract,63.95,846,No
+Female,Married,1,Yes,Yes,Yes,No,Fiber optic,No,No,Monthly contract,70.6,45.65,Yes
+Female,Married,20,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,86.1,2239.4,No
+Male,Single,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.5,75.05,No
+Female,Married,27,Yes,Yes,Yes,No,Fiber optic,No,No,Monthly contract,75,1783.6,No
+Female,Married,49,Yes,Yes,Yes,Yes,DSL,No,No,Monthly contract,59.6,2970.3,Yes
+Female,Married,10,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,64.5,887.35,Yes
+Male,Married,72,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Two year contract,109.7,7930.55,No
+Female,Married,45,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,95.65,4422.95,Yes
+Female,Single,35,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.4,1024.7,No
+Male,Married,42,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,101.15,5067.45,Yes
+Female,Married,65,Yes,Yes,No,Yes,Fiber optic,No,Yes,Monthly contract,97,6430.9,Yes
+Female,Single,72,Yes,Yes,No,No,No Internet,No internet ,No internet ,Two year contract,20.7,1375.4,No
+Male,Single,2,Yes,Yes,No,No,DSL,No,No,Monthly contract,44.95,75.05,Yes
+Female,Single,5,Yes,Yes,No,No,DSL,No,No,Monthly contract,44.7,77.6,Yes
+Female,Married,7,Yes,Yes,No,No,Fiber optic,No,No,Monthly contract,69.55,633.3,No
+Female,Married,5,Yes,Yes,No,No,DSL,Yes,No,One year contract,69.5,273.4,No
+Male,Married,29,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,90.85,2768.35,Yes
+Female,Single,10,No,No,No,No phone ,DSL,No,No,Monthly contract,40.7,394.1,No
+Male,Married,9,Yes,No,No,No,DSL,No,No,Monthly contract,56,846,No
+Male,Married,35,Yes,No,No,Yes,Fiber optic,Yes,Yes,Monthly contract,108,3959.15,No
+Male,Married,10,Yes,No,No,Yes,DSL,No,Yes,Monthly contract,58.95,834.1,No
+Male,Married,33,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Monthly contract,94.3,3036.75,No
+Male,Married,10,Yes,No,Yes,No,Fiber optic,Yes,Yes,Two year contract,96.1,1008.55,No
+Female,Married,65,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,One year contract,109.9,7008.15,No
+Male,Married,69,Yes,No,Yes,Yes,DSL,No,Yes,Two year contract,68.75,4758.8,No
+Male,Married,50,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,98.65,4422.95,Yes
+Female,Married,10,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,94.4,846,No
+Female,Single,46,Yes,No,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.4,1336.1,No
+Male,Single,52,Yes,No,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.6,1192.7,No
+Female,Single,40,Yes,No,Yes,No,No Internet,No internet ,No internet ,One year contract,20.55,540.05,No
+Male,Single,1,Yes,No,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.2,19.55,No
+Male,Married,4,Yes,No,Yes,No,Fiber optic,No,Yes,Monthly contract,89.35,371.9,Yes
+Male,Single,5,No,No,No,No phone ,DSL,No,No,Monthly contract,24.25,298.7,No
+Female,Single,1,No,No,No,No phone ,DSL,No,No,Monthly contract,25.25,79.9,Yes
+Female,Married,72,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,116.1,8468.2,No
+Male,Married,71,Yes,Yes,Yes,No,DSL,Yes,Yes,Two year contract,73.8,4758.8,No
+Female,Married,72,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Two year contract,105.55,7015.9,No
+Male,Single,20,No,No,No,No phone ,DSL,Yes,Yes,Monthly contract,39.65,805.1,No
+Male,Married,5,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,101.3,308.05,No
+Female,Single,43,No,No,No,No phone ,DSL,Yes,Yes,One year contract,45.3,2838.55,No
+Male,Married,19,Yes,Yes,Yes,No,Fiber optic,Yes,No,Monthly contract,80.05,1683.7,No
+Male,Married,27,Yes,Yes,Yes,No,DSL,Yes,No,Monthly contract,54.65,1058.1,No
+Female,Married,63,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,One year contract,89.7,5898.6,Yes
+Female,Single,8,No,No,No,No phone ,DSL,No,No,Monthly contract,25.25,275.7,No
+Male,Single,35,Yes,No,No,No,No Internet,No internet ,No internet ,Two year contract,20.15,780.2,No
+Male,Married,1,Yes,Yes,Yes,No,Fiber optic,No,No,Monthly contract,69.65,20,No
+Male,Single,40,No,No,No,No phone ,DSL,No,No,Monthly contract,40.4,899.45,No
+Male,Married,30,No,No,No,No phone ,DSL,Yes,Yes,One year contract,59.55,1785.65,No
+Male,Single,27,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,19.4,417,No
+Male,Married,45,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,103.75,4895.1,No
+Female,Married,58,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,One year contract,96.35,5000.2,No
+Female,Single,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.05,40.2,Yes
+Male,Married,43,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,One year contract,89.85,3662.25,No
+Female,Married,69,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,108.55,7882.25,No
+Female,Married,20,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,72.1,1463.5,No
+Male,Married,1,Yes,Yes,Yes,No,DSL,No,Yes,Monthly contract,68.75,47.7,Yes
+Female,Married,63,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,94.85,6126.15,No
+Male,Married,2,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,79.4,20,No
+Male,Married,1,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,56,19.75,No
+Female,Single,18,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.7,490.65,No
+Female,Married,6,Yes,Yes,Yes,No,Fiber optic,No,Yes,Monthly contract,83.3,434.5,Yes
+Female,Married,44,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,109.8,4874.8,Yes
+Male,Married,9,Yes,Yes,Yes,No,DSL,Yes,No,Monthly contract,55.05,1064.65,Yes
+Male,Married,8,Yes,Yes,Yes,No,Fiber optic,No,Yes,Monthly contract,89.55,609.65,Yes
+Male,Married,65,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,54.6,3027.25,No
+Male,Single,70,Yes,No,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,23.95,1679.25,No
+Female,Married,18,Yes,No,No,No,DSL,Yes,No,Monthly contract,55.2,996.85,No
+Male,Single,70,Yes,No,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.8,1304.8,No
+Female,Married,60,Yes,No,No,Yes,Fiber optic,Yes,No,One year contract,81.7,3958.25,No
+Male,Married,15,Yes,No,No,Yes,Fiber optic,Yes,Yes,One year contract,102.1,1625.65,No
+Female,Married,62,Yes,No,No,No,DSL,Yes,Yes,Two year contract,79.15,5435,No
+Female,Single,60,Yes,No,No,Yes,No Internet,No internet ,No internet ,Two year contract,25.4,1359.7,No
+Male,Married,3,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,100.05,316.9,Yes
+Female,Married,72,Yes,No,No,Yes,Fiber optic,No,No,Two year contract,78.9,5468.45,No
+Female,Married,5,Yes,No,No,Yes,Fiber optic,No,No,Monthly contract,79.05,371.9,Yes
+Male,Single,1,Yes,No,No,No,DSL,No,No,Monthly contract,45.4,75.05,Yes
+Female,Married,46,Yes,No,No,No,Fiber optic,No,No,Monthly contract,79.85,3650.35,No
+Male,Married,45,Yes,No,No,Yes,DSL,No,No,Monthly contract,54.75,2550.9,No
+Male,Single,72,Yes,No,No,Yes,No Internet,No internet ,No internet ,Two year contract,25.7,1710.9,No
+Female,Married,10,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,100.55,858.6,No
+Male,Married,57,Yes,Yes,Yes,No,DSL,Yes,Yes,Monthly contract,76.05,4461.85,No
+Male,Single,68,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.7,1414.45,No
+Female,Married,32,Yes,Yes,Yes,Yes,DSL,Yes,No,One year contract,56.6,2215.45,No
+Male,Married,44,Yes,Yes,Yes,Yes,DSL,No,No,Monthly contract,59.6,3437.45,No
+Female,Single,70,Yes,yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,24.25,1723.95,No
+Female,Single,70,Yes,yes,No,No,No Internet,No internet ,No internet ,Two year contract,20.55,1566.9,No
+Male,Married,72,Yes,yes,Yes,Yes,Fiber optic,No,No,Two year contract,84.3,5,No
+Female,Married,60,Yes,No,No,Yes,DSL,Yes,No,Two year contract,59.6,3487.95,No
+Male,Married,27,Yes,yes,Yes,No,DSL,Yes,Yes,Monthly contract,81.05,1861.5,No
+Male,Married,72,Yes,Yes,No,No,Fiber optic,Yes,Yes,Two year contract,94.45,6563.4,No
+Male,Married,58,Yes,Yes,No,Yes,Fiber optic,No,Yes,One year contract,105.05,5453.4,Yes
+Male,Married,32,Yes,Yes,No,Yes,Fiber optic,No,Yes,Monthly contract,90.15,3105.55,No
+Male,Married,1,Yes,Yes,Yes,No,Fiber optic,No,No,Monthly contract,75.3,33.6,No
+Male,Married,5,Yes,Yes,Yes,No,Fiber optic,No,Yes,Monthly contract,89.35,307.4,Yes
+Male,Married,63,Yes,Yes,No,Yes,Fiber optic,No,Yes,Two year contract,100.9,6413.65,No
+Male,Married,22,Yes,Yes,Yes,Yes,DSL,No,Yes,One year contract,79.7,2015.35,No
+Male,Married,69,Yes,Yes,No,No,DSL,Yes,No,Two year contract,79.85,5289.05,No
+Male,Single,17,Yes,Yes,Yes,No,DSL,No,No,One year contract,45.35,363.15,No
+Male,Married,29,Yes,No,No,Yes,Fiber optic,Yes,Yes,One year contract,90.4,2679.7,No
+Female,Married,3,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,80.25,302.6,Yes
+Male,Married,65,Yes,No,No,No,DSL,Yes,Yes,Two year contract,86.1,5965.95,No
+Male,Married,62,Yes,No,No,No,DSL,No,Yes,One year contract,79.2,4786.15,No
+Male,Married,45,Yes,No,No,Yes,Fiber optic,Yes,Yes,One year contract,113.3,4874.8,No
+Female,Married,15,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,75.1,927.35,Yes
+Female,Single,46,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,One year contract,23.6,1623.4,No
+Male,Single,2,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.45,19.25,No
+Female,Married,24,Yes,yes,Yes,No,DSL,No,No,Monthly contract,54.65,1288.75,No
+Male,Married,4,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,69.55,341.6,No
+Male,Married,31,Yes,No,No,No,Fiber optic,Yes,Yes,Monthly contract,105,3046.05,Yes
+Male,Married,30,Yes,yes,Yes,No,DSL,No,No,One year contract,55,1830.1,No
+Male,Married,41,Yes,No,No,No,Fiber optic,No,No,Monthly contract,79.25,3089.1,Yes
+Male,Single,43,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,19.8,1124.2,No
+Male,Married,37,Yes,No,Yes,No,Fiber optic,No,Yes,Monthly contract,93.95,3247.55,No
+Male,Single,24,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,23.75,514.75,No
+Male,Married,24,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,79.85,1712.7,Yes
+Male,Married,66,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,89.85,5755.8,No
+Female,Married,58,Yes,No,Yes,Yes,DSL,Yes,No,Two year contract,73.5,4542.35,No
+Male,Married,26,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,One year contract,104.95,2514.5,No
+Female,Married,4,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,69.85,292.8,Yes
+Male,Married,72,Yes,No,Yes,Yes,DSL,No,No,Two year contract,64.5,4508.65,No
+Female,Single,56,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,26.4,1423.85,No
+Female,Married,15,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,72.85,771.95,Yes
+Female,Married,60,Yes,No,No,No,DSL,No,Yes,Monthly contract,79.2,4326.8,No
+Male,Married,1,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,70.7,19.75,No
+Male,Single,43,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.15,927.1,No
+Female,Single,41,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.85,720.05,No
+Male,Married,8,Yes,yes,Yes,No,DSL,Yes,No,Two year contract,69.65,655.5,No
+Male,Married,47,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,71.4,3173.35,No
+Male,Married,56,Yes,No,Yes,No,DSL,Yes,No,Two year contract,73.5,4461.85,No
+Female,Married,3,Yes,yes,Yes,No,DSL,Yes,No,Monthly contract,64.3,233.7,No
+Male,Married,13,Yes,yes,Yes,No,DSL,No,Yes,Monthly contract,70.3,1181.75,No
+Male,Married,33,Yes,No,Yes,Yes,Fiber optic,Yes,No,Monthly contract,95,2723.15,No
+Male,Married,7,Yes,yes,Yes,No,DSL,No,No,Monthly contract,59,832.35,No
+Male,Single,8,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.6,267,No
+Female,Married,72,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,115.8,8306.05,No
+Female,Married,1,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,70.4,35.45,No
+Male,Single,1,Yes,yes,Yes,No,DSL,No,No,Monthly contract,49.25,89.5,No
+Male,Single,2,Yes,yes,Yes,No,DSL,No,No,Monthly contract,45.25,34.75,Yes
+Male,Married,1,Yes,yes,Yes,No,DSL,No,No,Monthly contract,54.8,24.8,No
+Male,Married,26,Yes,No,Yes,Yes,Fiber optic,Yes,No,Monthly contract,89.15,2857.6,No
+Male,Single,1,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.15,29.85,No
+Female,Married,30,Yes,yes,Yes,No,DSL,Yes,No,Monthly contract,64.35,1889.5,No
+Female,Married,2,Yes,yes,Yes,No,Fiber optic,Yes,No,Monthly contract,80,19,No
+Male,Married,32,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,84.3,2545.75,No
+Female,Single,72,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.35,1360.25,No
+Female,Single,2,No,No,No,No phone ,DSL,Yes,No,Monthly contract,24.25,19.9,No
+Male,Single,20,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,25.4,587.4,No
+Female,Single,66,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.3,1397.65,No
+Female,Married,41,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,One year contract,94.3,3340.55,No
+Female,Married,22,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,100.5,1907.85,Yes
+Male,Married,72,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,114.55,8399.15,Yes
+Male,Married,1,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,51.2,167.5,Yes
+Male,Single,10,Yes,yes,Yes,No,DSL,No,No,Monthly contract,44.95,435.4,Yes
+Female,Married,21,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,78.95,1231.85,No
+Female,Married,65,Yes,No,No,Yes,Fiber optic,No,No,Monthly contract,93.85,5965.95,No
+Male,Single,15,No,No,No,No phone ,DSL,Yes,No,Monthly contract,30.75,362.6,No
+Female,Married,2,Yes,yes,No,No,Fiber optic,Yes,No,Monthly contract,90.35,184.65,No
+Female,Single,12,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,19.65,268.45,No
+Female,Married,34,Yes,No,No,No,Fiber optic,Yes,Yes,Monthly contract,98.8,3527.6,No
+Male,Single,1,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.05,181.5,No
+Male,Married,24,Yes,No,No,Yes,Fiber optic,Yes,Yes,Monthly contract,108.45,2231.05,No
+Male,Married,72,Yes,No,No,No,Fiber optic,Yes,Yes,Two year contract,95.1,7303.05,No
+Female,Single,52,Yes,yes,No,No,No Internet,No internet ,No internet ,Two year contract,19.55,1099.6,No
+Female,Married,71,Yes,No,No,Yes,DSL,Yes,Yes,Two year contract,89.65,6668.05,No
+Male,Married,44,Yes,No,No,Yes,Fiber optic,No,Yes,One year contract,100.9,4619.55,No
+Male,Married,29,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,85.95,2664.3,No
+Male,Married,56,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,73.25,4149.45,No
+Male,Married,66,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,57.8,4103.9,No
+Male,Married,71,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,108.55,7984.15,No
+Male,Married,71,Yes,No,Yes,Yes,Fiber optic,No,Yes,Two year contract,104.15,6858.9,No
+Female,Married,72,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,113.1,7382.25,No
+Male,Married,42,Yes,No,No,Yes,Fiber optic,No,Yes,Two year contract,101.15,4889.3,No
+Male,Single,18,No,No,No,No phone ,DSL,Yes,No,Monthly contract,35.75,830.8,No
+Male,Married,23,Yes,yes,No,No,Fiber optic,Yes,Yes,Monthly contract,93.5,1782.4,No
+Male,Married,11,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,79.85,663.05,Yes
+Female,Single,1,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,19.85,181.5,No
+Female,Married,27,Yes,yes,No,No,DSL,Yes,Yes,One year contract,79.15,2028.8,No
+Female,Married,69,Yes,Yes,No,No,DSL,Yes,Yes,Two year contract,71.9,4616.05,No
+Female,Single,1,Yes,Yes,No,No,No Internet,No internet ,No internet ,Monthly contract,19.3,86.6,No
+Female,Single,35,Yes,Yes,No,No,No Internet,No internet ,No internet ,One year contract,19.95,963.95,No
+Male,Married,4,Yes,Yes,No,No,Fiber optic,No,No,Monthly contract,75.15,208.85,No
+Male,Married,68,Yes,Yes,No,Yes,DSL,No,Yes,Two year contract,76.9,5550.1,No
+Male,Married,58,Yes,Yes,No,Yes,Fiber optic,No,Yes,One year contract,99.7,5794.65,Yes
+Male,Single,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.35,181.5,No
+Female,Married,58,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Two year contract,75.8,4461.85,No
+Female,Single,2,Yes,Yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,25.45,20.05,No
+Male,Married,35,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,95.45,3741.85,No
+Female,Married,15,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,75.1,1170.5,No
+Male,Married,62,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,100.5,6413.65,Yes
+Male,Single,20,No,No,No,No phone ,DSL,Yes,Yes,Monthly contract,45.3,1277.5,No
+Male,Single,4,No,No,No,No phone ,DSL,Yes,No,Monthly contract,29.8,92.75,No
+Female,Married,52,Yes,No,Yes,Yes,Fiber optic,No,No,Monthly contract,80.35,4542.35,No
+Male,Single,2,Yes,yes,Yes,No,DSL,No,No,Monthly contract,44.3,19.45,Yes
+Female,Married,2,Yes,yes,Yes,No,Fiber optic,Yes,Yes,Monthly contract,100.3,52.2,Yes
+Female,Single,1,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20,147.15,No
+Female,Married,22,Yes,yes,Yes,Yes,DSL,No,Yes,Monthly contract,74.55,1600.25,No
+Female,Single,11,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.05,202.25,No
+Female,Married,1,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,74.5,49.9,Yes
+Female,Married,20,Yes,yes,Yes,No,Fiber optic,Yes,Yes,One year contract,95.15,1779.95,No
+Male,Married,10,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,80.3,528.35,Yes
+Female,Married,35,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,94.4,3266,No
+Male,Married,62,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,94.4,5459.2,Yes
+Male,Married,52,Yes,No,Yes,Yes,Cable,Yes,Yes,One year contract,83.7,4054.2,No
+Female,Married,60,Yes,No,No,Yes,Cable,Yes,Yes,Two year contract,89.85,4884.85,No
+Female,Married,22,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,88.9,1975.85,No
+Male,Married,23,Yes,yes,Yes,No,Cable,No,No,Monthly contract,64.75,1832.4,No
+Female,Married,23,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,89.15,1949.4,No
+Male,Married,72,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,116.1,8468.2,No
+Female,Married,15,Yes,yes,Yes,No,Fiber optic,Yes,Yes,Monthly contract,102.45,1667.25,Yes
+Male,Single,72,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.85,1756.2,No
+Female,Married,72,Yes,No,Yes,Yes,Cable,Yes,No,Two year contract,64.15,3739.8,No
+Female,Married,22,Yes,yes,No,No,Fiber optic,Yes,Yes,Monthly contract,103.7,1901.65,No
+Male,Married,72,Yes,Yes,Yes,Yes,Cable,No,Yes,Two year contract,79.7,5293.95,No
+Male,Single,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.65,40.2,No
+Female,Married,66,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,One year contract,104.8,7039.45,No
+Male,Married,15,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,106.35,1559.25,Yes
+Male,Single,37,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.55,927.65,No
+Male,Single,1,Yes,Yes,Yes,No,Cable,No,No,Monthly contract,45.65,161.5,Yes
+Male,Married,1,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,78.3,35.9,No
+Male,Married,72,Yes,Yes,Yes,Yes,Fiber optic,No,No,Two year contract,74.25,4872.35,No
+Male,Married,12,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,106.35,1164.05,Yes
+Male,Married,72,Yes,No,No,Yes,Cable,Yes,Yes,Two year contract,89.65,6562.9,No
+Male,Single,15,No,No,No,No phone ,Cable,Yes,No,Monthly contract,31.05,681.4,No
+Male,Married,2,No,No,No,No phone ,Cable,Yes,No,Monthly contract,54.85,19.9,No
+Female,Married,12,Yes,yes,No,No,Cable,Yes,No,Monthly contract,55.05,1212.85,Yes
+Female,Married,5,Yes,yes,No,No,Fiber optic,No,Yes,Monthly contract,86.45,238.1,No
+Female,Married,61,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,99.45,6215.35,Yes
+Female,Married,55,Yes,No,No,No,Fiber optic,No,Yes,One year contract,103.75,5238.9,No
+Female,Married,8,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,75.1,574.35,Yes
+Male,Single,15,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,20.8,219.35,No
+Male,Married,24,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,70,2028.8,No
+Female,Single,63,Yes,yes,No,Yes,No Internet,No internet ,No internet ,One year contract,24.45,1679.25,No
+Male,Married,3,Yes,yes,No,No,Cable,Yes,No,Monthly contract,58.95,302.6,Yes
+Male,Married,2,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,73.6,55.05,No
+Male,Single,4,No,No,No,No phone ,Cable,No,No,Monthly contract,30.4,208.45,No
+Female,Married,47,Yes,No,Yes,No,Fiber optic,No,No,One year contract,70,3548.3,No
+Male,Married,15,Yes,yes,Yes,No,Cable,Yes,No,Monthly contract,65,731.3,No
+Female,Married,65,Yes,No,Yes,Yes,Fiber optic,No,No,Monthly contract,76.5,5550.1,No
+Male,Married,66,Yes,No,Yes,Yes,Fiber optic,No,Yes,Two year contract,103.4,7007.6,No
+Female,Married,6,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,76.45,248.4,Yes
+Male,Married,64,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,One year contract,108.05,7008.15,No
+Male,Married,72,Yes,No,Yes,Yes,Fiber optic,No,Yes,Two year contract,105.4,7848.5,No
+Female,Single,15,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.45,225.55,No
+Male,Married,29,Yes,No,Yes,Yes,Fiber optic,Yes,No,One year contract,89.15,2538.05,No
+Female,Married,22,Yes,yes,Yes,No,Cable,No,Yes,Monthly contract,64.95,1614.05,No
+Male,Married,59,Yes,No,Yes,No,Fiber optic,No,Yes,One year contract,110.5,6396.45,No
+Female,Single,72,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,One year contract,25.05,1756.2,No
+Male,Married,35,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,81.1,2111.3,No
+Male,Married,6,Yes,yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,95,308.05,Yes
+Male,Married,35,Yes,No,Yes,Yes,Fiber optic,No,No,Monthly contract,85.45,2917.5,No
+Female,Single,12,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.25,193.05,No
+Female,Married,64,Yes,No,Yes,Yes,Cable,No,No,Monthly contract,59.6,4039.3,No
+Male,Single,1,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.35,80,No
+Female,Married,43,Yes,No,Yes,Yes,Cable,No,Yes,Monthly contract,78.4,3650.35,No
+Male,Married,7,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,89.25,554.05,Yes
+Female,Married,66,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,105.9,7085.5,No
+Female,Single,42,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.75,1174.8,No
+Female,Single,41,No,No,No,No phone ,Cable,No,Yes,Monthly contract,41.15,702,No
+Male,Married,27,Yes,No,Yes,No,Fiber optic,Yes,Yes,One year contract,105,2595.25,Yes
+Male,Married,46,Yes,No,Yes,Yes,Cable,No,No,One year contract,60.9,3902.6,No
+Female,Married,29,Yes,yes,Yes,Yes,Cable,Yes,No,Monthly contract,58.25,1929.95,No
+Female,Married,55,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,91.25,5645.8,No
+Male,Married,15,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,One year contract,98.8,1238.45,No
+Male,Married,29,Yes,Yes,Yes,No,Fiber optic,No,No,Monthly contract,76.05,2111.3,Yes
+Female,Married,22,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,95.1,1975.85,Yes
+Female,Married,8,Yes,Yes,Yes,Yes,Fiber optic,Yes,No,One year contract,89.55,515.45,No
+Female,Married,2,Yes,Yes,Yes,No,Fiber optic,No,No,Monthly contract,69.55,79.35,Yes
+Male,Single,34,No,No,No,No phone ,Cable,Yes,No,Monthly contract,30.35,690.25,No
+Male,Married,43,Yes,Yes,No,Yes,Cable,Yes,Yes,Two year contract,82.45,3344.1,No
+Male,Single,11,Yes,Yes,No,No,No Internet,No internet ,No internet ,One year contract,19.3,233.55,No
+Female,Single,27,Yes,yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,24.25,419.9,No
+Female,Married,2,Yes,yes,No,No,Cable,Yes,No,Monthly contract,64.3,19.9,Yes
+Male,Married,8,Yes,yes,No,No,Cable,Yes,No,Monthly contract,55.05,644.35,Yes
+Male,Married,9,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,74.4,697.25,Yes
+Male,Married,38,Yes,No,No,No,Cable,Yes,Yes,Two year contract,81.05,2708.2,No
+Female,Married,56,Yes,No,No,Yes,Fiber optic,No,Yes,One year contract,99.65,5681.1,Yes
+Female,Married,72,Yes,No,No,Yes,Fiber optic,Yes,Yes,Two year contract,115.75,8468.2,No
+Female,Single,44,Yes,yes,No,Yes,No Internet,No internet ,No internet ,One year contract,25.7,1505.9,No
+Male,Single,66,No,No,No,No phone ,DSL,Yes,No,Two year contract,42.1,2799.75,No
+Male,Married,65,Yes,No,No,Yes,DSL,Yes,No,One year contract,79.45,5023,No
+Male,Married,2,Yes,yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,99.7,20.8,Yes
+Female,Married,27,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,73.85,1509.8,Yes
+Male,Married,15,Yes,yes,Yes,No,Fiber optic,Yes,Yes,One year contract,100.3,1120.95,No
+Male,Married,32,Yes,No,Yes,No,DSL,Yes,Yes,Two year contract,86.1,3036.75,No
+Female,Married,52,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,94.4,3944.5,No
+Female,Married,12,Yes,yes,Yes,Yes,Fiber optic,Yes,No,Monthly contract,80.85,1093.1,No
+Male,Married,49,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,100.9,4016.75,Yes
+Male,Married,27,Yes,yes,No,No,DSL,Yes,Yes,One year contract,81.05,2015.35,No
+Female,Married,66,Yes,No,Yes,Yes,Fiber optic,No,No,One year contract,76.5,5730.7,No
+Male,Single,58,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,19.95,1153.25,No
+Male,Married,34,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Monthly contract,105.25,3741.85,Yes
+Male,Single,10,No,No,No,No phone ,DSL,No,Yes,Monthly contract,43.75,681.4,No
+Female,Married,32,Yes,No,Yes,No,DSL,Yes,Yes,Monthly contract,80.3,2227.1,No
+Male,Married,1,Yes,yes,Yes,No,Fiber optic,Yes,No,Monthly contract,83.55,75.3,Yes
+Female,Married,4,Yes,yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,98.3,371.9,Yes
+Female,Single,47,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.35,930.9,No
+Female,Married,65,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,One year contract,109.55,7008.15,No
+Male,Married,8,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,93.95,516.15,Yes
+Male,Single,16,Yes,yes,Yes,No,DSL,No,No,One year contract,44.3,422.3,No
+Female,Married,72,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,112.25,7984.15,No
+Male,Married,63,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Two year contract,84.5,5459.2,No
+Female,Married,32,No,No,No,No phone ,DSL,Yes,No,One year contract,54.85,1442.6,No
+Male,Married,24,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,85.25,2514.5,No
+Male,Married,35,Yes,Yes,No,Yes,Fiber optic,Yes,Yes,Monthly contract,107.25,3527.6,Yes
+Female,Married,1,Yes,Yes,No,No,Fiber optic,No,Yes,Monthly contract,81.05,29.85,Yes
+Female,Married,66,Yes,Yes,No,Yes,Fiber optic,Yes,Yes,Two year contract,108.65,7076.35,No
+Female,Married,3,Yes,Yes,No,Yes,Fiber optic,No,No,Monthly contract,75.6,319.15,Yes
+Female,Single,35,Yes,Yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,25.05,835.15,No
+Male,Married,61,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,59.55,3009.5,No
+Male,Married,51,Yes,No,No,Yes,Fiber optic,No,No,Monthly contract,94.7,4733.1,No
+Female,Single,1,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.8,143.65,No
+Male,Married,2,Yes,yes,No,Yes,DSL,Yes,No,Monthly contract,58.95,19.55,No
+Male,Single,52,No,No,No,No phone ,DSL,No,No,One year contract,33.75,1195.25,No
+Male,Single,66,No,No,No,No phone ,DSL,Yes,No,Two year contract,30.1,1813.35,No
+Male,Married,64,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,100.5,5971.25,Yes
+Male,Married,15,Yes,yes,Yes,No,Fiber optic,Yes,Yes,Monthly contract,101.9,1288.3,Yes
+Male,Married,70,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,105.4,6962.85,No
+Male,Single,18,No,No,No,No phone ,DSL,No,No,Monthly contract,30.4,805.1,No
+Female,Married,70,Yes,No,Yes,No,DSL,Yes,No,One year contract,66.5,5154.5,No
+Male,Married,15,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,94.8,1120.95,Yes
+Female,Single,8,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,19.75,202.25,No
+Female,Married,8,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,75.6,535.55,No
+Female,Single,2,Yes,yes,Yes,No,DSL,No,No,Monthly contract,45.35,114.1,No
+Female,Married,12,Yes,yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,85.95,1882.55,Yes
+Female,Married,34,Yes,yes,Yes,No,DSL,Yes,Yes,Two year contract,74.75,2111.3,No
+Female,Single,60,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.6,1107.2,No
+Male,Married,34,Yes,No,Yes,No,DSL,Yes,Yes,Two year contract,80.15,2633.3,No
+Female,Single,12,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.2,326.8,No
+Female,Married,71,Yes,No,No,Yes,Fiber optic,Yes,Yes,Two year contract,108.05,7984.15,Yes
+Male,Married,57,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,110.5,6068.65,Yes
+Female,Single,10,Yes,yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,25.4,161.95,No
+Female,Married,22,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,89,1752.55,No
+Male,Married,6,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,76.45,424.45,Yes
+Male,Single,18,Yes,yes,No,No,DSL,No,No,One year contract,45.7,1253.15,No
+Male,Single,2,Yes,yes,No,No,DSL,No,No,Monthly contract,44.7,25.25,No
+Male,Married,36,Yes,No,No,No,DSL,Yes,Yes,One year contract,84.85,3089.1,No
+Male,Married,24,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,75.1,1861.5,No
+Female,Married,72,No,No,No,No phone ,DSL,Yes,Yes,One year contract,60,4189.7,No
+Male,Single,1,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.95,19.75,No
+Female,Single,32,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,19.75,720.05,No
+Female,Married,59,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,111.05,6519.75,Yes
+Male,Married,68,Yes,No,No,Yes,DSL,Yes,No,Two year contract,79.45,5411.4,No
+Female,Married,40,Yes,No,No,Yes,Fiber optic,Yes,Yes,Monthly contract,107.15,3527.6,No
+Female,Married,24,Yes,yes,No,No,Fiber optic,No,Yes,Monthly contract,95.15,2088.05,Yes
+Male,Married,72,Yes,No,No,Yes,Fiber optic,Yes,No,Two year contract,90.05,6369.45,Yes
+Female,Married,6,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,81.35,424.45,Yes
+Female,Married,25,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,74.35,1406,Yes
+Male,Single,43,Yes,yes,No,No,No Internet,No internet ,No internet ,Two year contract,19.8,1099.6,No
+Male,Married,70,Yes,No,No,No,DSL,No,Yes,Two year contract,74.75,4543.15,No
+Male,Married,28,Yes,No,No,Yes,Fiber optic,Yes,Yes,Monthly contract,104,3046.05,No
+Female,Single,41,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,20.55,720.05,No
+Male,Married,71,Yes,Yes,No,Yes,Fiber optic,Yes,Yes,Two year contract,110.8,8126.65,No
+Male,Married,1,Yes,Yes,No,No,Fiber optic,No,No,Monthly contract,69.65,80,Yes
+Male,Married,63,Yes,Yes,No,No,Fiber optic,No,Yes,One year contract,94.4,5817,No
+Male,Single,20,Yes,Yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,25.6,413,No
+Female,Married,8,Yes,Yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.2,237.7,No
+Female,Married,2,Yes,Yes,No,No,Fiber optic,No,No,Monthly contract,78.85,62.25,Yes
+Male,Married,2,Yes,Yes,No,No,DSL,No,No,Monthly contract,56.15,90.85,Yes
+Male,Married,22,Yes,Yes,No,No,DSL,No,Yes,One year contract,64.05,1821.95,No
+Male,Married,33,Yes,Yes,No,No,Fiber optic,No,No,Monthly contract,74.4,2303.35,Yes
+Male,Married,34,Yes,yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,26.4,624.15,No
+Male,Married,72,Yes,yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,25.9,1642.75,No
+Male,Married,12,No,No,No,No phone ,DSL,Yes,Yes,Monthly contract,45.3,475.7,Yes
+Male,Married,1,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,74.95,45.7,Yes
+Male,Married,72,Yes,No,Yes,Yes,Fiber optic,No,Yes,Two year contract,99.65,7303.05,No
+Female,Married,29,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,25.05,759.35,No
+Male,Married,72,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,107.5,7532.15,No
+Female,Married,26,No,No,No,No phone ,DSL,No,Yes,Monthly contract,45,1315.35,No
+Male,Married,5,Yes,yes,No,Yes,Fiber optic,No,Yes,Monthly contract,94.35,313.6,Yes
+Female,Married,56,Yes,No,No,Yes,Fiber optic,No,No,One year contract,96.75,5812,No
+Male,Married,5,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,89.2,396.1,Yes
+Female,Married,65,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,110.5,7008.15,Yes
+Female,Married,19,Yes,yes,No,No,Fiber optic,Yes,Yes,Monthly contract,101.9,1886.25,No
+Female,Married,19,Yes,yes,No,Yes,Fiber optic,No,Yes,Monthly contract,107.95,1968.1,No
+Female,Married,16,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,75.6,764.55,No
+Female,Married,48,Yes,No,No,No,Fiber optic,No,No,One year contract,84.3,3682.45,No
+Male,Married,70,Yes,yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,26.25,1798.9,No
+Female,Married,10,Yes,yes,No,No,DSL,No,Yes,Monthly contract,64.8,663.05,No
+Female,Married,69,Yes,No,No,Yes,DSL,Yes,Yes,Two year contract,85.75,6130.85,No
+Female,Married,15,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,75.1,1152.8,No
+Male,Married,68,Yes,yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,26.4,1798.9,No
+Male,Married,23,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,75.1,1732.6,No
+Male,Married,66,Yes,yes,No,No,No Internet,No internet ,No internet ,Two year contract,20.55,1363.25,No
+Female,Married,61,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,55,2473.95,No
+Male,Married,59,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,100,5861.75,Yes
+Male,Married,50,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,85.15,3906.7,No
+Male,Married,46,Yes,yes,No,No,No Internet,No internet ,No internet ,Two year contract,20.05,1252,No
+Male,Married,65,No,No,No,No phone ,DSL,Yes,No,Two year contract,35.8,1563.95,No
+Female,Married,1,Yes,yes,No,No,Fiber optic,Yes,No,Monthly contract,75.9,20.25,No
+Male,Married,58,Yes,No,No,Yes,Fiber optic,Yes,Yes,One year contract,105.45,5430.35,No
+Male,Married,1,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.75,45.7,Yes
+Female,Married,72,Yes,No,No,Yes,DSL,Yes,Yes,One year contract,88.05,5986.45,No
+Female,Married,1,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,69.35,90.85,Yes
+Male,Married,1,Yes,yes,No,No,Fiber optic,No,Yes,Monthly contract,85.9,44.8,Yes
+Female,Married,42,Yes,No,Yes,Yes,Fiber optic,No,No,One year contract,83.15,3442.15,No
+Female,Married,61,Yes,No,Yes,Yes,DSL,Yes,No,Two year contract,59.6,3505.1,No
+Male,Married,6,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,93.95,424.45,No
+Female,Married,5,Yes,yes,No,Yes,Fiber optic,No,Yes,Monthly contract,85.25,308.05,Yes
+Female,Married,2,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.15,168.2,No
+Female,Married,6,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,74.35,567.8,Yes
+Female,Married,15,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,19.45,320.45,No
+Male,Married,3,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,19.15,131.05,No
+Male,Married,45,Yes,No,No,No,Fiber optic,No,No,Monthly contract,74.8,3344.1,No
+Female,Married,11,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,21.05,170.9,No
+Male,Married,69,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,54.6,3687.75,No
+Male,Married,4,Yes,yes,No,No,Fiber optic,No,No,One year contract,69.7,313.6,No
+Male,Married,64,Yes,No,No,Yes,Fiber optic,No,Yes,Two year contract,97.55,6413.65,No
+Female,Married,30,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,One year contract,113.25,3327.05,No
+Male,Married,57,Yes,No,Yes,No,DSL,Yes,No,Two year contract,70.9,4048.95,No
+Male,Married,70,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.2,1292.6,No
+Female,Married,72,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,90.4,6588.95,No
+Female,Married,3,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,89.15,292.8,Yes
+Male,Married,51,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,90.05,4884.85,No
+Female,Married,15,No,No,No,No phone ,DSL,Yes,Yes,Monthly contract,59.85,952.3,No
+Female,Married,52,Yes,yes,No,Yes,No Internet,No internet ,No internet ,One year contract,24.75,1229.1,No
+Male,Married,18,Yes,No,No,No,Fiber optic,Yes,Yes,Monthly contract,105.1,2172.05,No
+Female,Married,53,Yes,No,Yes,No,Fiber optic,No,Yes,Two year contract,105.55,5916.95,Yes
+Female,Married,19,Yes,yes,Yes,No,DSL,No,Yes,Monthly contract,70.05,1463.5,Yes
+Male,Married,30,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,26.4,927.65,No
+Female,Married,72,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Two year contract,85.75,6309.65,No
+Male,Married,1,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.4,38.8,No
+Male,Married,2,Yes,Yes,No,No,Fiber optic,No,Yes,Monthly contract,98.5,52.2,Yes
+Male,Married,2,Yes,Yes,No,No,DSL,No,No,Monthly contract,44.95,89.3,Yes
+Male,Married,47,Yes,Yes,No,Yes,Fiber optic,No,Yes,One year contract,104.55,4874.8,No
+Male,Married,68,Yes,Yes,No,Yes,Fiber optic,Yes,No,Two year contract,98.2,7085.5,No
+Female,Married,70,Yes,Yes,No,Yes,Fiber optic,No,Yes,Two year contract,90.35,6668.05,No
+Female,Married,65,Yes,Yes,No,No,Fiber optic,No,Yes,Monthly contract,97,6311.2,Yes
+Male,Married,41,Yes,Yes,No,No,No Internet,No internet ,No internet ,One year contract,19.9,1126.35,No
+Female,Married,25,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,75.6,1929.35,Yes
+Male,Married,5,No,No,No,No phone ,DSL,No,No,Monthly contract,25.25,77.6,No
+Male,Married,31,Yes,No,No,No,Fiber optic,No,Yes,Monthly contract,89.25,2861.45,No
+Female,Married,2,No,No,No,No phone ,DSL,No,No,Monthly contract,25.35,19.6,Yes
+Female,Married,2,Yes,yes,No,No,DSL,Yes,Yes,Monthly contract,70.3,34.75,No
+Male,Married,1,Yes,yes,No,No,DSL,No,No,Monthly contract,48.55,19.9,Yes
+Male,Married,72,Yes,No,Yes,Yes,Fiber optic,No,Yes,Two year contract,105.55,7422.1,No
+Male,Married,32,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,94.35,3082.1,Yes
+Male,Married,59,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,One year contract,101,5509.3,No
+Male,Married,14,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,19.8,161.95,No
+Male,Married,60,No,No,No,No phone ,DSL,Yes,No,Two year contract,42.1,2550.9,No
+Male,Married,72,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,88.15,6316.2,No
+Male,Married,72,Yes,No,Yes,Yes,DSL,Yes,Yes,One year contract,89.85,6369.45,No
+Female,Married,55,Yes,No,Yes,Yes,DSL,Yes,No,Two year contract,79.85,4461.85,Yes
+Female,Married,68,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,54.6,3260.1,No
+Male,Married,72,Yes,No,No,Yes,Fiber optic,No,No,Two year contract,80.6,5436.45,No
+Female,Married,1,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,19.8,73.55,No
+Male,Married,71,Yes,No,No,Yes,Fiber optic,No,Yes,Two year contract,104.6,6962.85,No
+Female,Married,3,Yes,yes,No,No,Fiber optic,No,Yes,Monthly contract,93.95,273.4,No
+Female,Single,11,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,20.05,219.35,No
+Male,Married,22,Yes,yes,No,Yes,Fiber optic,No,Yes,Monthly contract,99.8,1842.8,Yes
+Female,Single,13,Yes,yes,No,No,DSL,No,No,Monthly contract,44.4,449.3,Yes
+Male,Married,45,Yes,No,No,Yes,DSL,No,Yes,Two year contract,79.7,2958.95,No
+Female,Single,1,Yes,yes,No,No,DSL,No,No,Monthly contract,49.25,25.4,No
+Female,Single,36,No,No,No,No phone ,DSL,Yes,No,Two year contract,30.85,808.95,Yes
+Male,Single,1,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,21.05,75.3,No
+Female,Married,36,Yes,No,No,Yes,Fiber optic,No,No,Monthly contract,88.8,2917.5,No
+Female,Single,23,No,No,No,No phone ,DSL,No,Yes,Monthly contract,44.95,1183.8,No
+Female,Single,35,Yes,yes,No,No,No Internet,No internet ,No internet ,Two year contract,20.35,690.25,No
+Male,Married,24,Yes,No,No,No,Fiber optic,Yes,Yes,Monthly contract,105.1,2595.25,Yes
+Female,Married,3,Yes,yes,No,No,DSL,No,Yes,Monthly contract,81.95,531,Yes
+Female,Married,54,Yes,No,Yes,Yes,DSL,Yes,No,One year contract,73.5,4054.2,No
+Male,Married,20,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,One year contract,89.9,2162.6,No
+Female,Married,4,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,99.3,273,Yes
+Female,Married,43,Yes,Yes,Yes,No,DSL,No,No,One year contract,64.5,2958.95,No
+Male,Single,41,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.6,624.15,No
+Female,Married,20,Yes,Yes,No,No,Fiber optic,No,Yes,Monthly contract,84.6,1949.4,No
+Female,Married,2,Yes,Yes,No,No,Fiber optic,No,No,Monthly contract,70.6,89.5,Yes
+Male,Single,1,Yes,Yes,No,No,DSL,No,No,Monthly contract,44.7,145.15,Yes
+Female,Married,56,Yes,Yes,No,Yes,Fiber optic,No,Yes,One year contract,93.4,5238.9,No
+Female,Married,15,Yes,Yes,No,No,Fiber optic,Yes,Yes,Two year contract,105.5,1430.25,No
+Male,Married,15,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,76.1,889,No
+Female,Single,15,No,No,No,No phone ,DSL,Yes,No,Monthly contract,30.75,518.9,No
+Male,Married,64,Yes,No,Yes,Yes,Fiber optic,Yes,No,Two year contract,91.25,5459.2,No
+Female,Married,20,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,82,1373.05,No
+Male,Married,31,Yes,No,Yes,Yes,Fiber optic,Yes,No,One year contract,96.55,3082.1,No
+Female,Single,6,No,No,No,No phone ,DSL,No,Yes,Monthly contract,34.7,141.5,No
+Male,Married,52,Yes,No,No,Yes,DSL,Yes,Yes,Two year contract,83.7,3958.25,No
+Male,Married,49,Yes,No,No,Yes,Fiber optic,No,Yes,Monthly contract,100.5,4914.9,Yes
+Female,Married,1,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,71.1,44,No
+Female,Single,48,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.5,1252,No
+Female,Single,16,No,No,No,No phone ,DSL,No,No,Monthly contract,40.4,444.75,Yes
+Female,Single,24,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.4,504.2,No
+Male,Single,54,No,No,No,No phone ,DSL,No,No,Two year contract,30.1,1453.1,No
+Female,Single,1,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.15,20.2,No
+Male,Married,38,Yes,No,No,No,DSL,Yes,Yes,Two year contract,73.8,2379.1,No
+Female,Married,70,Yes,No,No,No,DSL,Yes,Yes,Two year contract,69.5,4973.4,No
+Female,Married,4,Yes,yes,Yes,Yes,DSL,Yes,No,Monthly contract,55.2,334.8,Yes
+Female,Married,25,Yes,No,No,Yes,Fiber optic,Yes,Yes,One year contract,89.85,2964,No
+Female,Married,55,Yes,No,No,No,Fiber optic,No,Yes,One year contract,100.5,5608.4,Yes
+Female,Married,4,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,69.55,319.15,Yes
+Female,Married,4,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,85.7,502.85,Yes
+Female,Married,54,Yes,Yes,Yes,Yes,DSL,Yes,Yes,One year contract,85.1,4326.8,No
+Male,Married,2,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,75.25,50.65,No
+Male,Married,35,Yes,Yes,Yes,No,DSL,No,No,One year contract,63.3,2003.6,No
+Male,Married,41,Yes,Yes,Yes,No,DSL,No,No,Monthly contract,64.5,2708.2,No
+Male,Married,71,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,107.5,7853.7,No
+Female,Single,12,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.1,320.45,Yes
+Female,Married,7,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,78.85,624.6,Yes
+Male,Married,21,Yes,Yes,Yes,No,DSL,No,No,One year contract,54.65,1546.3,No
+Male,Single,1,Yes,Yes,Yes,No,DSL,Yes,No,Two year contract,49.3,114.15,No
+Female,Married,60,Yes,No,Yes,Yes,Fiber optic,No,No,One year contract,81.85,4456.35,No
+Female,Single,11,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20,268.45,No
+Female,Married,32,Yes,No,Yes,No,Fiber optic,No,No,Monthly contract,79.85,2633.3,Yes
+Female,Single,60,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,25.4,1216.6,No
+Female,Married,1,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,69.55,71.1,Yes
+Male,Single,70,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.9,1357.1,No
+Male,Single,70,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.55,1355.1,No
+Female,Married,56,Yes,No,No,Yes,Fiber optic,No,Yes,One year contract,110.3,6396.45,Yes
+Male,Single,46,Yes,yes,No,Yes,No Internet,No internet ,No internet ,Two year contract,24.35,1359.7,No
+Female,Married,10,Yes,yes,No,No,Fiber optic,Yes,Yes,Monthly contract,105.5,1008.55,Yes
+Male,Married,3,Yes,yes,No,No,DSL,Yes,Yes,Monthly contract,75.3,531,No
+Female,Married,66,Yes,No,No,Yes,DSL,Yes,Yes,Two year contract,89.65,5308.7,No
+Female,Married,22,Yes,yes,No,Yes,Fiber optic,No,Yes,Monthly contract,93.35,1862.9,No
+Male,Married,35,Yes,yes,Yes,No,DSL,No,Yes,One year contract,80.6,2054.4,No
+Male,Married,2,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,76.1,44,No
+Female,Married,2,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,70.15,44.8,No
+Male,Married,13,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,79.25,1111.65,No
+Male,Single,9,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.8,320.45,No
+Male,Married,71,Yes,No,Yes,Yes,Fiber optic,No,No,Two year contract,81.4,5411.4,No
+Female,Married,1,Yes,yes,Yes,No,DSL,No,Yes,Monthly contract,58.95,75.3,Yes
+Female,Married,4,Yes,yes,Yes,Yes,DSL,Yes,Yes,Monthly contract,65.55,308.05,No
+Male,Single,2,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.75,242.8,No
+Female,Married,32,Yes,No,Yes,No,Fiber optic,No,Yes,Monthly contract,89.55,2896.55,No
+Male,Single,1,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.85,97,No
+Male,Married,72,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,112.25,8003.8,No
+Male,Married,60,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,85.55,4884.85,No
+Male,Single,18,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.05,514.75,No
+Female,Married,8,Yes,yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,98.3,655.5,Yes
+Male,Married,30,Yes,No,Yes,Yes,Fiber optic,Yes,No,One year contract,81.2,2651.1,No
+Male,Married,35,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,104.15,3646.8,Yes
+Female,Single,9,Yes,yes,Yes,No,DSL,Yes,No,Monthly contract,49.9,518.9,Yes
+Female,Single,7,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.5,326.8,No
+Female,Married,68,Yes,Yes,Yes,Yes,DSL,Yes,No,Two year contract,59.6,4039.3,No
+Female,Married,12,Yes,Yes,Yes,No,Fiber optic,No,No,Monthly contract,80.3,1112.3,No
+Female,Married,72,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Two year contract,85.75,5986.45,No
+Male,Married,71,Yes,Yes,Yes,Yes,DSL,No,Yes,Two year contract,83.5,5398.6,No
+Female,Single,8,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.9,251.6,No
+Male,Married,9,Yes,Yes,Yes,No,DSL,Yes,No,Monthly contract,52.2,422.3,Yes
+Female,Married,62,Yes,Yes,Yes,Yes,DSL,Yes,No,One year contract,66.15,4919.7,No
+Male,Married,49,Yes,Yes,No,Yes,DSL,Yes,Yes,Two year contract,81.75,2958.95,No
+Female,Married,11,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,98.55,855.3,Yes
+Male,Married,46,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,One year contract,110.35,5032.25,No
+Male,Married,68,Yes,No,No,Yes,DSL,Yes,Yes,Two year contract,73.25,4732.35,No
+Male,Married,2,Yes,yes,No,No,Fiber optic,No,Yes,Monthly contract,95.15,71.1,Yes
+Female,Married,72,Yes,No,No,Yes,Fiber optic,No,Yes,Two year contract,101.55,7848.5,No
+Female,Married,65,Yes,No,No,Yes,Fiber optic,No,No,Two year contract,80.35,5436.45,Yes
+Male,Single,1,Yes,yes,No,No,DSL,No,No,Monthly contract,44.6,24.6,No
+Male,Married,69,Yes,Yes,No,Yes,Fiber optic,Yes,No,Two year contract,85.3,6094.25,No
+Male,Married,60,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,One year contract,89.85,4874.7,No
+Male,Single,33,Yes,Yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.2,678.8,No
+Female,Single,34,Yes,Yes,No,No,No Internet,No internet ,No internet ,One year contract,19.85,654.55,No
+Male,Single,3,No,No,No,No phone ,DSL,No,No,Monthly contract,24.6,83.75,Yes
+Male,Married,70,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Two year contract,89.05,6254.45,Yes
+Male,Married,44,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,84.3,3566.6,No
+Male,Married,72,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,114.55,8468.2,No
+Female,Married,15,Yes,Yes,Yes,Yes,Fiber optic,No,No,Monthly contract,82,994.8,No
+Male,Single,3,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,24.3,220.45,No
+Male,Married,13,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,99.1,1415,Yes
+Male,Married,38,Yes,No,No,Yes,Fiber optic,Yes,Yes,Two year contract,116.25,3395.8,No
+Male,Married,8,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,86.05,496.9,Yes
+Male,Single,7,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,20.55,193.05,No
+Female,Single,30,No,No,No,No phone ,DSL,No,No,One year contract,30.35,540.05,No
+Female,Married,52,Yes,No,No,No,Fiber optic,No,Yes,One year contract,97.55,4619.55,No
+Female,Married,25,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,75.5,2028.8,No
+Female,Single,13,Yes,yes,Yes,No,DSL,No,No,Monthly contract,44.8,597,No
+Female,Married,72,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,113.1,8248.5,No
+Male,Married,43,Yes,No,Yes,No,Fiber optic,No,Yes,Monthly contract,95.5,4738.3,Yes
+Female,Married,70,Yes,No,Yes,Yes,Fiber optic,No,No,Two year contract,81.55,5289.05,No
+Male,Single,15,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.95,233.9,No
+Female,Married,56,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,89.85,4925.35,No
+Female,Married,11,Yes,yes,Yes,No,Fiber optic,Yes,No,One year contract,84.35,858.6,No
+Male,Married,72,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,92,6369.45,No
+Male,Married,21,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,110.5,2239.4,No
+Female,Married,71,Yes,No,No,No,DSL,Yes,Yes,One year contract,80.3,5289.05,No
+Male,Married,35,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Monthly contract,111.25,3646.8,No
+Female,Married,30,No,No,No,No phone ,DSL,Yes,Yes,One year contract,58.25,1785.65,No
+Male,Married,3,Yes,yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,90.15,273,Yes
+Female,Single,14,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.9,214.75,No
+Male,Married,65,No,No,No,No phone ,DSL,Yes,No,Two year contract,54.85,2962,No
+Male,Single,10,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.65,233.9,No
+Female,Married,15,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,76,927.35,No
+Female,Married,50,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,94.4,4016.75,No
+Male,Married,71,Yes,No,Yes,Yes,Fiber optic,Yes,No,Two year contract,89,6132.7,No
+Female,Married,26,Yes,yes,Yes,No,DSL,Yes,No,One year contract,64.4,1845.9,No
+Male,Married,71,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,114.95,8404.9,No
+Male,Married,71,Yes,Yes,Yes,Yes,DSL,Yes,Yes,One year contract,76.3,5600.15,No
+Male,Single,15,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.4,301.9,No
+Male,Single,13,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.4,202.25,No
+Male,Single,6,No,No,No,No phone ,DSL,No,No,Monthly contract,24.8,61.35,No
+Male,Married,18,Yes,yes,Yes,No,Fiber optic,Yes,Yes,Monthly contract,101.9,1934.45,No
+Female,Single,12,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.55,365.8,No
+Male,Married,0,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,80.25,19.75,No
+Female,Married,45,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,108.15,4687.9,No
+Male,Single,51,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20,905.55,No
+Female,Married,3,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,84.35,234.85,Yes
+Female,Married,56,Yes,Yes,No,Yes,Fiber optic,No,Yes,Two year contract,104.8,5608.4,No
+Male,Married,72,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,Two year contract,84.5,6309.65,No
+Male,Single,16,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,19.9,299.05,No
+Male,Married,4,Yes,yes,Yes,No,DSL,Yes,No,Monthly contract,67.65,273,No
+Male,Single,3,No,No,No,No phone ,DSL,No,No,Monthly contract,25.25,141.5,Yes
+Female,Married,1,Yes,yes,No,No,Fiber optic,No,No,Monthly contract,75.3,167.5,No
+Male,Married,10,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,96.5,855.3,Yes
+Female,Single,1,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.75,84.6,No
+Female,Married,71,Yes,Yes,No,Yes,Fiber optic,Yes,Yes,Two year contract,116.1,8404.9,No
+Male,Single,6,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20.15,132.25,No
+Female,Single,1,Yes,yes,Yes,No,DSL,No,No,Monthly contract,45.35,139.4,Yes
+Male,Married,24,Yes,yes,No,No,DSL,No,Yes,Monthly contract,64.7,1758.6,No
+Male,Married,3,Yes,yes,Yes,No,DSL,Yes,No,Monthly contract,55.2,233.7,Yes
+Male,Single,8,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Monthly contract,25.55,233.9,No
+Male,Single,17,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.45,237.7,No
+Female,Married,1,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,74.4,80,Yes
+Female,Married,11,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,76,858.6,No
+Male,Married,31,Yes,Yes,No,Yes,Fiber optic,Yes,No,Monthly contract,81.2,2497.2,No
+Male,Single,10,No,No,No,No phone ,DSL,No,No,Monthly contract,30.15,498.25,No
+Female,Married,65,Yes,Yes,No,Yes,Fiber optic,Yes,Yes,One year contract,104.8,6744.25,No
+Female,Single,68,Yes,yes,No,No,No Internet,No internet ,No internet ,Two year contract,20.85,1277.75,No
+Female,Married,46,Yes,Yes,No,Yes,Fiber optic,No,No,Monthly contract,86.1,4287.2,No
+Male,Single,3,Yes,yes,No,No,DSL,No,No,Monthly contract,44.85,89.05,Yes
+Female,Married,32,Yes,yes,No,No,DSL,No,No,One year contract,56.7,1889.5,No
+Female,Single,5,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.75,298.7,No
+Female,Married,12,Yes,yes,No,No,DSL,No,No,Monthly contract,50.55,597,No
+Male,Single,1,No,No,No,No phone ,DSL,No,No,Monthly contract,29.85,75.1,Yes
+Female,Married,4,Yes,yes,No,Yes,Fiber optic,No,Yes,Monthly contract,94.35,244.75,Yes
+Male,Single,1,Yes,yes,No,No,DSL,No,No,Monthly contract,45.35,33.6,No
+Female,Single,2,Yes,yes,No,No,No Internet,No internet ,No internet ,Monthly contract,20.05,19.55,Yes
+Male,Married,63,Yes,No,No,Yes,Fiber optic,No,Yes,One year contract,99.35,6311.2,No
+Female,Married,53,Yes,No,No,Yes,Fiber optic,Yes,Yes,One year contract,104.8,6017.65,No
+Female,Married,32,Yes,No,No,Yes,Fiber optic,No,No,Monthly contract,85.45,2768.35,No
+Male,Single,5,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20,94.15,No
+Male,Married,72,Yes,No,No,Yes,Fiber optic,Yes,Yes,Two year contract,114.95,8476.5,No
+Female,Single,17,No,No,No,No phone ,DSL,No,No,Monthly contract,44.85,540.95,Yes
+Male,Single,58,Yes,yes,Yes,No,No Internet,No internet ,No internet ,One year contract,20.05,1090.65,No
+Male,Married,56,Yes,No,Yes,Yes,Fiber optic,No,No,One year contract,75.65,4217.8,No
+Female,Married,13,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,73.25,1074.3,Yes
+Male,Single,6,No,No,No,No phone ,DSL,No,No,Monthly contract,30.4,168.15,No
+Female,Married,12,Yes,yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,85.95,1582.75,No
+Female,Single,12,Yes,yes,Yes,No,DSL,No,No,Monthly contract,49.25,382.2,No
+Female,Married,28,Yes,No,Yes,No,DSL,Yes,Yes,One year contract,81.75,2149.05,No
+Female,Married,65,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,105.55,6744.25,Yes
+Male,Married,44,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,103.85,5032.25,Yes
+Female,Married,7,Yes,yes,Yes,Yes,Fiber optic,No,Yes,Monthly contract,95.6,624.6,Yes
+Male,Married,56,Yes,No,Yes,No,Fiber optic,Yes,Yes,One year contract,98.8,5681.1,Yes
+Female,Married,17,Yes,yes,Yes,No,DSL,Yes,No,One year contract,55.05,1195.75,No
+Male,Married,50,Yes,No,Yes,Yes,DSL,Yes,No,One year contract,64.35,3009.5,No
+Male,Married,29,Yes,yes,Yes,No,DSL,No,No,Monthly contract,55.3,1183.8,Yes
+Female,Married,22,Yes,yes,Yes,No,Fiber optic,No,Yes,Monthly contract,86.45,1899.65,No
+Male,Single,56,No,No,No,No phone ,DSL,No,No,One year contract,45.25,2688.85,No
+Male,Married,3,Yes,yes,Yes,Yes,DSL,Yes,Yes,Monthly contract,64.9,273,No
+Male,Married,13,No,No,No,No phone ,DSL,No,Yes,Monthly contract,50.35,565.35,No
+Female,Single,50,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.4,1167.6,No
+Female,Married,63,Yes,No,Yes,Yes,Fiber optic,No,Yes,Monthly contract,105.5,6597.25,Yes
+Male,Single,58,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,20.2,1305.95,No
+Female,Married,63,Yes,No,Yes,No,Fiber optic,No,Yes,One year contract,100.15,6311.2,No
+Female,Married,17,Yes,yes,Yes,No,DSL,No,Yes,One year contract,69.7,731.3,No
+Female,Married,12,Yes,yes,Yes,No,DSL,Yes,No,Monthly contract,55.2,771.95,Yes
+Male,Married,12,Yes,yes,Yes,Yes,Fiber optic,No,No,Monthly contract,79.4,1111.65,No
+Male,Single,1,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,21.1,47.7,No
+Male,Married,65,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,113.3,7107,No
+Male,Married,63,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,103.25,6985.65,No
+Female,Married,64,No,No,No,No phone ,DSL,No,No,Monthly contract,52.55,3139.8,Yes
+Female,Single,1,Yes,yes,No,No,No Internet,No internet ,No internet ,One year contract,19.85,119.5,No
+Male,Single,38,Yes,yes,Yes,Yes,No Internet,No internet ,No internet ,Two year contract,24.8,865,No
+Male,Single,4,Yes,yes,No,Yes,No Internet,No internet ,No internet ,One year contract,25.4,92.75,No
+Male,Married,72,Yes,Yes,No,No,Fiber optic,No,Yes,Two year contract,90.4,6369.45,No
+Male,Married,29,Yes,Yes,No,Yes,Fiber optic,Yes,Yes,Monthly contract,98.5,2830.45,No
+Female,Married,6,Yes,yes,No,No,Fiber optic,Yes,Yes,Monthly contract,94.45,352.65,No
+Male,Married,68,Yes,Yes,No,Yes,DSL,Yes,Yes,Two year contract,88.6,6316.2,No
+Male,Married,3,Yes,yes,No,Yes,Fiber optic,No,No,Monthly contract,73.85,318.1,Yes
+Male,Married,71,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Two year contract,107.5,7882.25,No
+Female,Married,49,Yes,Yes,Yes,No,Fiber optic,No,No,One year contract,91.25,3921.3,No
+Male,Single,20,Yes,yes,Yes,No,DSL,No,No,Monthly contract,49.25,1442,No
+Female,Single,2,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Monthly contract,20,74.35,No
+Female,Married,70,No,No,No,No phone ,DSL,Yes,Yes,Two year contract,60.2,3739.8,No
+Male,Married,72,Yes,No,Yes,Yes,DSL,Yes,Yes,Two year contract,88.15,6148.45,No
+Male,Married,46,Yes,No,Yes,No,DSL,No,No,Monthly contract,62.15,2970.3,Yes
+Female,Married,5,Yes,yes,Yes,No,Fiber optic,No,No,Monthly contract,69.55,302.6,Yes
+Male,Single,59,No,No,No,No phone ,DSL,Yes,No,One year contract,44.45,2145,No
+Female,Married,56,Yes,No,Yes,Yes,Fiber optic,No,Yes,One year contract,84.5,4054.2,No
+Female,Married,56,Yes,No,Yes,Yes,DSL,No,Yes,Two year contract,83.5,3958.25,No
+Male,Married,57,Yes,No,Yes,No,Fiber optic,No,No,One year contract,73.95,4326.8,No
+Male,Married,51,Yes,No,Yes,No,DSL,Yes,No,One year contract,60.9,3582.4,No
+Male,Single,69,Yes,yes,Yes,No,No Internet,No internet ,No internet ,Two year contract,19.15,1363.45,No
